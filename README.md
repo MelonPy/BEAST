@@ -1,3 +1,10 @@
+# GROUPE 1
+- Alexandre Burello
+- Felix Blanc
+- Oscar Bogaerts
+- Valentin Cudey
+- Robin Brugnano
+
 # BEAST - Browser Exploit Against SSL/TLS
 
 **Livrables :**
