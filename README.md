@@ -68,8 +68,6 @@ Ils nous serviront plus tard lors des tests.
 
 Après s’être assuré que tout fonctionnait, on a lancé Wireshark sur le PC de l’attaquant (MITM) afin de voir les échanges qui se font entre le client et le serveur web. On remarquera dans la capture suivante les échanges (filtrés avec ‘tls’) entre la machine docker et le serveur web:
 
-![image.png](BEAST%20-%20Browser%20Exploit%20Against%20SSL%20TLS%201f2e68259afd80bf8c7afbe09e7f2dbc/image.png)
-
 ```jsx
 Encrypted Application Data [truncated]: 30d96360468308c5b01664c15e9625856c56246c735b92b840a6523f61eef057ad88a22db6b12e1e83461d81e23e44f64ca8670a7c02782adf0412f6da33b3125bc955461b944824a3e43863f3bbe083925861053ab5a8ea113f89b2f1c0416730815eb
 ```
